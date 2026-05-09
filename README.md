@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Garg 👋
 
-💻 Software Engineer with 5+ years of experience in .NET and Identity & Access Management (IAM)  
+💻 Software Engineer with 4.5 years of experience in .NET and Identity & Access Management (IAM)  
 🔐 Specialist in Azure AD B2C & Saviynt  
 🤖 Transitioning into AI Engineer with hands-on projects in Generative AI, NLP, and Machine Learning  
 
